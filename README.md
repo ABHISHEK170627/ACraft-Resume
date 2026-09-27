@@ -9,6 +9,8 @@
 - **Author**: Abhishek
 - **Degree**: Bachelor of Computer Applications (BCA)
 - **Institution**: New Horizon College, Kasturi Nagar, Bangalore, Karnataka, India
+- **Live Deployment**: [https://abhishek170627.github.io/ACraft-Resume/](https://abhishek170627.github.io/ACraft-Resume/)
+- **Repository**: [https://github.com/abhishek170627/ACraft-Resume](https://github.com/abhishek170627/ACraft-Resume)
 - **License**: [MIT License](LICENSE)
 
 ---
@@ -81,7 +83,7 @@ open-resume/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/ACraft-Resume.git
+   git clone https://github.com/abhishek170627/ACraft-Resume.git
    cd ACraft-Resume
    ```
 
